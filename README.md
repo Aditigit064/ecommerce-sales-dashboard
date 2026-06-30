@@ -14,4 +14,4 @@ Analyzed 17K+ e-commerce orders using SQL, Excel, and Power BI to identify reven
 - Units Sold: 51K
 - Mobile users contributed the highest share of purchases
 
-## Dashboard Preview
+
